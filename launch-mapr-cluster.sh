@@ -140,7 +140,7 @@ done
 project=${project:-"maprtt"}
 maprversion=${maprversion:-"2.1.3.2"}
 machinetype=${machinetype:-"n1-standard-2-d"}
-zone=${zone:-"us-central1-b"}
+zone=${zone:-"europe-west1"}
 licenseFile=${licenseFile:-"/Users/mhausenblas2/mapr/LatestDemoLicense-M5.txt"}
 pboot=${pboot:-"true"}
 
